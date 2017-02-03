@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Whip</string>
+
+    <string name="whip">Whip!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nosensor">Sorry!</string>
+    <string name="activity_nosensor">This device does not have an accelerometer. Sorry!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="img_desc">soundImg</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
